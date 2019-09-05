@@ -1,11 +1,4 @@
 language: go
 
 go:
-<<<<<<< HEAD
 - "1.12"
-=======
-- 1.x
-- "1.12"
-- 1.11.x
-- master
->>>>>>> master
